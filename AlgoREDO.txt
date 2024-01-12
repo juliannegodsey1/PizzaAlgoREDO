@@ -1,3 +1,4 @@
  Step 1: Call pizza place
  Step 2: Order pizza
  Step 3: Pay & Pick up pizza
+ Step 4: Enjoy pizza!
